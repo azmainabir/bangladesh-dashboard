@@ -12,7 +12,7 @@
 
 ## 🔴 Live Demo
 
-👉 **[View Live Dashboard](#)** ← _(update this link after deployment)_
+👉 **[View Live Dashboard](https://bangladesh-dashboard.streamlit.app)**
 
 ---
 
